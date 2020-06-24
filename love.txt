@@ -1,0 +1,7 @@
+Love is in the air
+This is nice place
+echo "I like u, Bro"
+it is a new text
+
+
+In one command, pipe the ls -l command to the head command. Then redirect the standard output of the head command to list1.txt.
