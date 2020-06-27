@@ -6,3 +6,4 @@ it is a new text
 
 In one command, pipe the ls -l command to the head command. Then redirect the standard output of the head command to list1.txt.
 New line for git
+So what are we seeing here? First, let’s understand that (1) master and develop are different branches of our project and (2) the HEAD pointer points to a particular branch, not a commit directly. 
